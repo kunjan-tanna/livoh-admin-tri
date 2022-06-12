@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="149.256" height="165.712" viewBox="0 0 149.256 165.712">
+  <defs>
+    <linearGradient id="linear-gradient" x1="49.194" y1="0.779" x2="49.71" y2="0.513" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="0.113" stop-color="#394065"/>
+      <stop offset="0.356" stop-color="#7e839b"/>
+      <stop offset="0.574" stop-color="#b5b8c6"/>
+      <stop offset="0.761" stop-color="#dddee5"/>
+      <stop offset="0.909" stop-color="#f6f6f8"/>
+      <stop offset="1" stop-color="#fff"/>
+    </linearGradient>
+  </defs>
+  <g id="livoh-logo" transform="translate(-1422.5 -2377.28)">
+    <path id="Union_1" data-name="Union 1" d="M64.727,122.541h0a38.974,38.974,0,0,1-37.73-48.869A31.5,31.5,0,0,1,9.229,20.222l.079-.078a31.508,31.508,0,0,1,44.612,44.5l-.12.121h0l-.009.01h0l0,0h0L49.871,68.7A21.005,21.005,0,0,0,79.576,98.4L100.9,77.078A38.993,38.993,0,0,1,81.617,11.49l.081-.082a39.01,39.01,0,0,1,55.169,55.168L92.307,111.134A38.87,38.87,0,0,1,64.73,122.541Zm29.7-98.4a21.006,21.006,0,0,0,29.6,29.809l.1-.1A21.006,21.006,0,0,0,94.48,24.087ZM21.96,32.953A13.5,13.5,0,0,0,40.937,52.169l.125-.125a13.5,13.5,0,1,0-19.1-19.1l0,0Z" transform="translate(1423 2377.78)" stroke="rgba(0,0,0,0)" stroke-miterlimit="10" stroke-width="1" fill="url(#linear-gradient)"/>
+    <g id="Group_34" data-name="Group 34" transform="translate(1444.759 2523.354)">
+      <path id="Path_58" data-name="Path 58" d="M1378.4,605.392h3.2v15.636h7.952v3.042H1378.4Z" transform="translate(-1378.4 -605.072)" fill="#fff"/>
+      <path id="Path_59" data-name="Path 59" d="M1403.951,605.392h3.2V624.07h-3.2Z" transform="translate(-1382.229 -605.072)" fill="#fff"/>
+      <path id="Path_60" data-name="Path 60" d="M1428.31,624.71l-8.352-19.318h3.5l4.963,11.98,4.911-11.98h3.334Z" transform="translate(-1384.628 -605.072)" fill="#fff"/>
+      <path id="Path_61" data-name="Path 61" d="M1468.545,614.674a9.448,9.448,0,1,1-9.446-9.659A9.3,9.3,0,0,1,1468.545,614.674Zm-3.255,0c0-3.6-2.429-6.618-6.19-6.618s-6.191,3.015-6.191,6.618,2.428,6.618,6.191,6.618S1465.29,618.276,1465.29,614.674Z" transform="translate(-1389.078 -605.015)" fill="#fff"/>
+      <path id="Path_62" data-name="Path 62" d="M1495.862,605.392h3.2V624.07h-3.2v-8.031h-7.979v8.031h-3.2V605.392h3.2V613h7.979Z" transform="translate(-1394.327 -605.072)" fill="#fff"/>
+    </g>
+  </g>
+</svg>

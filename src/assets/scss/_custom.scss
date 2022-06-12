@@ -1,0 +1,234 @@
+/*====== All Custom Files Include Here ======*/
+@import "./custom/common";
+@import "./custom/header";
+@import "./custom/sidebar";
+@import "./custom/horizontal-menu";
+@import "./custom/agency-layout";
+@import "./custom/main";
+@import "./custom/dashboard";
+@import "./custom/ul-element";
+@import "./custom/advance-ui-element";
+@import "./custom/forms";
+@import "./custom/tables";
+@import "./custom/editor";
+@import "./custom/drag-drop";
+@import "./custom/pages";
+@import "./custom/user";
+@import "./custom/ecommerce";
+@import "./custom/session";
+@import "./custom/effect";
+@import "./custom/widgets";
+@import "./custom/extensions";
+
+.loader{
+    position: fixed;
+  z-index: 10000;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  background-color: #0000006e;
+}
+
+.loader .MuiCircularProgress-root{
+    display: block;
+    margin: 0 auto;
+}
+
+.page-item.disabled .page-link{
+  color: #000000;
+    pointer-events: none;
+    cursor: auto;
+    background-color: #fff;
+    border-color: #EBEDF2;
+}
+
+.Align{
+  padding-top: 15px !important;
+    padding-bottom: 0px !important;
+}
+
+.mainDiv{
+  float: left;
+  margin: 5px;
+}
+
+.dropdown-toggle::after{
+  display: inline-block;
+    position: relative;
+    width: 0;
+    top: 2px;
+    height: 0;
+    margin-left: 0.255em;
+    vertical-align: 0.255em;
+    content: "";
+    border-top: 0.3em solid;
+    border-right: 0.3em solid transparent;
+    border-bottom: 0;
+    border-left: 0.3em solid transparent;
+}
+
+.width40{
+  width: 40px !important;
+}
+
+button.close_btn {
+  position: absolute;
+  top: 0px;
+  right: 4px;
+  background: transparent;
+  border: none !important;
+  font-size: 26px;
+  color: #333;
+  cursor: pointer;
+  }
+
+  .item-active{
+    background: #00000033;
+  }
+
+  .searchText{
+    float: left;
+    margin-right: 10px;
+    padding-left: 14px;
+  }
+
+  .form-control:focus{
+    border-color: #dbdcdf !important;
+    box-shadow:none !important;
+  }
+
+  .profile-img {
+    object-fit: cover;
+    height: 180px;
+    width: 180px;
+    border: 1px solid #f8f9fa;
+    border-radius: 62%;
+}
+
+
+  .paymentSuccess {
+    position: relative;
+    width: 50%;
+    background: white;
+    margin: auto;
+    color: black;
+    text-align: center;
+  }
+
+  .paymentSuccess i{
+    color: #2eb12e;
+  }
+
+ 
+  
+  .paymentSuccess h1 {
+    text-align: center;
+    font-size: 131px;
+    color:black;
+  }
+  
+  .paymentSuccess h3 {
+    text-align: center;
+    font-size: 24px;
+  }
+  
+  .paymentSuccess a {
+    font-size: 20px;
+  }
+
+  .MuiButton-containedPrimary {
+    color: #fff;
+    background-color: #F1521E !important;
+}
+
+.nav-item .active{
+    color: #F1521E !important;
+    background-color: #F4F7FA;
+    border-color: #EBEDF2 #EBEDF2 #F4F7FA;
+}
+
+.Peding{
+  padding-top: 36px;
+}
+
+.game-cell {
+  width: 400px;
+}
+
+// text{
+//   cursor: default;
+//     user-select: none;
+//     -webkit-font-smoothing: antialiased;
+//      font-family: 'Times New Roman', Times, serif !important; 
+//     font-size: 16px;
+//     font-weight: bold !important;
+//     color: black !important;
+// }
+
+// rect {
+//   width: 233px !important;
+// }
+
+  // .rct-sidebar{
+  //   background-color: red;
+  // }
+
+  .GraphFont{
+    font-size: 17px;
+    color: #000000;
+    font-weight: bold;
+  }
+  @media only screen and (max-width: 600px) {
+    .profile-img {
+      object-fit: cover;
+      height: 174px;
+      width: auto;
+      margin: 1px 0px 17px 0px;
+      border: 1px solid #f8f9fa;
+      border-radius: 6%;
+  }
+  }
+
+  .calendarOuter {
+    margin-left: 10px;
+    position: relative;
+  }
+  
+  .calendarOuter .fa-calendar-week {
+    position: absolute;
+    right: 10px;
+    top: 10px;
+    z-index: 9;
+  }
+  
+  .calendarOuter .fa-calendar-week::before {
+    color: #b7b7b7;
+  }
+  
+  .calendarOuter input:focus,
+  .form-control:focus {
+    box-shadow: none;
+  }
+
+  .pt25{
+    padding-top: 25px;
+  }
+
+  .infoIcon {
+    position: relative;
+    top: 5px;
+    font-size: 20px;
+  }
+
+  .Bdetails{
+    font-size: 16px;
+    font-weight: 600;
+  }
+
+  .infoIconCashout {
+    position: relative;
+    top: -1px;
+    font-size: 14px;
+    margin-right: 7px;
+  }
